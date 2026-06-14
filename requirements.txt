@@ -1,0 +1,32 @@
+## 📦 Requirements
+
+Seluruh dependensi proyek disimpan pada file:
+
+```text
+requirements.txt
+```
+
+Isi file `requirements.txt`:
+
+```text
+numpy
+pandas
+opencv-python
+matplotlib
+seaborn
+scikit-image
+scikit-learn
+joblib
+tensorflow
+torch
+torchvision
+jupyter
+```
+
+Install seluruh dependensi dengan perintah berikut:
+
+```bash
+pip install -r requirements.txt
+```
+
+Atau unduh file `requirements.txt` yang telah disediakan pada repository, kemudian jalankan perintah di atas untuk menginstal seluruh library yang diperlukan.
